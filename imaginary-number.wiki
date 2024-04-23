@@ -1,0 +1,68 @@
+wiki/1
+
+§ Imaginary Number
+
+⸺ by Charles Iliya Krempeaux
+
+In [[math]], an **imaginary number** is a [[real-number]]s or [[integer]]s multiplied to the [[imaginary-unit]], which is denoted by ``i``.
+
+§§ Example Imaginary Numbers
+
+Some examples of complex numbers include:
+
+i
+
+2i
+
+-2i
+
+2.3i
+
+-2.3i
+
+πi
+
+-πi
+
+i√‾‾5‾‾
+
+-i√‾‾5‾‾
+
+Numbers such as —
+
+2i + 3
+
+i - π
+
+π - i
+
+π - i√5
+
+— are //not// called **imaginary number**s, but are instead called [[complex-number]]s.
+
+§§ operator j
+
+With **imaginary number**s, the //[[square-root]] of negative one// is usually denoted as ``i``.
+I.e., —
+
+i = √‾‾-1‾‾
+
+This creates a problem if you are dealing with [[electromagnetism]] — where ``i`` (and ``I``) is commonly used to denote [[electric-current]].
+
+In this situation ``j`` (rather than ``i``) is used to denote the [[imaginary-unit]].
+I.e., —
+
+i = √‾‾-1‾‾
+
+This is often called **operator j**.
+
+This should //not// be confused with the use of ``j`` from [[quaternion]]s.
+They are //not// the same.
+
+§§ See Also
+
+• [[complex-number]]
+• [[hypercomplex-number]]
+• [[imaginary-unit]]
+• [[octonion]]
+• [[quaternion]]
