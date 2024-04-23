@@ -12,6 +12,8 @@ Some examples of complex numbers include:
 
 i
 
+-i
+
 2i
 
 -2i
