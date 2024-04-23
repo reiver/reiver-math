@@ -1,0 +1,36 @@
+wiki/1
+
+§ Imaginary Unit
+
+⸺ by Charles Iliya Krempeaux
+
+In [[math]], the **imaginary unit** is denoted by ``i``, and is defined as —
+
+i = √‾‾-1‾‾
+
+§§ operator j
+
+With **imaginary number**s, the //[[square-root]] of negative one// is usually denoted as ``i``.
+I.e., —
+
+i = √‾‾-1‾‾
+
+This creates a problem if you are dealing with [[electromagnetism]] — where ``i`` (and ``I``) is commonly used to denote [[electric-current]].
+
+In this situation ``j`` (rather than ``i``) is used to denote the [[imaginary-unit]].
+I.e., —
+
+i = √‾‾-1‾‾
+
+This is often called **operator j**.
+
+This should //not// be confused with the use of ``j`` from [[quaternion]]s.
+They are //not// the same.
+
+§§ See Also
+
+• [[complex-number]]
+• [[hypercomplex-number]]
+• [[imaginary-number]]
+• [[octonion]]
+• [[quaternion]]
