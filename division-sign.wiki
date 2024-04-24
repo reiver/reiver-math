@@ -24,7 +24,7 @@ This would read as — //ten divided by 5 equals 2//.
 
 §§ Divided By
 
-I.e., in this context, the **division sign** (**÷**) reads a //divided by//.
+I.e., in this context, the **division sign** (**÷**) reads as — //divided by//.
 
 §§ HTML
 
