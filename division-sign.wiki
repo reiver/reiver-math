@@ -1,0 +1,73 @@
+wiki/1
+
+§ Division Sign
+
+⸺ by Charles Iliya Krempeaux
+
+The **division sign** (**÷**) is used to denote [[mathematical-division]].
+
+The symbol for the **division sign** is a horizontal bar with one dot slightly above the center of the horizontal bar, and another dot slightly below the center of the horizontal bar.
+The 2 dots line up vertically.
+
+§§ Name
+
+The **division sign** is sometimes also called the **division symbol**.
+The **division sign** seems to also sometimes be called an **obelus** — whose plural form is: **obeli** — although ther are other things called //obelus// & //obeli// that are //not// the **division sign**.
+
+§§ Example
+
+He is an example of the **division sign** in usage.
+
+10 ÷ 5 = 2
+
+This would read as — //ten divided by 5 equals 2//.
+
+§§ Divided By
+
+I.e., in this context, the **division sign** (**÷**) reads a //divided by//.
+
+§§ HTML
+
+The **division sign** can be created in HTML with "``&divide;``".
+For example —
+
+	  10 &divide; 5 = 2
+
+§§ Other Symbols And Notations For Division
+
+Other symbols exist for [[mathematical-division]].
+For example, the [[long-division-symbol]], the [[solidus]], the [[fraction-slash]], and a horizonal-line (used in [[mathematical-fraction]]s]).
+
+So, for example, all of these are equivalent —
+
+10 ÷ 5
+
+5 )‾‾ 10 ‾‾
+
+10 / 5
+
+''10''⁄,,5,,
+
+10⁄5
+
+
+__10__
+5
+
+§§ HTML Fraction Slash
+
+Note, if you want to use fraction like notation in HTML, you can use the HTML "``&frasl;``" entity.
+For example —
+
+	10&frasl;5
+
+Really though, if you want to make it look like a fraction, you need to the HTML <sup> element and the HTML <sub> Element too.
+So —
+
+	<sup>10</sup>&frasl;<sub>5</sub>
+
+§§ wiki/1
+
+You can create a fraction in [[wiki/1]] notation like the following:
+
+	'(('))10'(('))⁄,((,))5,((,))
