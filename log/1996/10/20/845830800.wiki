@@ -6,26 +6,26 @@ wiki/1
 
 ⸺ published 1996-10-20T10:00:00-07:00
 
-― This is chalenge to you guys,
-― 
-― A 3D matrix is a great help in computing transformations. (SFSG...)
-― 
-― From a generic matrix you can derive some properties of the transformation.
-― 
-― I'm interested in finding a QUICK and LINEAR way to determine if some 4x4 matriz produces a transformation in which all 3 scale factors are equal. I mean, if some object is to be transformed, it will not be deformed. An object will be grown/shrinked by the same amount in all 3 axis.
-― 
-― Having:
-― 
-― | a11 a12 a13 a14 |
-― | a21 a22 a23 a24 |
-― | a31 a32 a33 a34 |
-― |  0   0   0   1  |
-― 
-― Can I create a set of LINEAR EQUATIONS on unknows aij that guaranties my condition (no deformation - equal scale factors) ???
-― 
-― LINEAR equations is a MUST for my problem.
-― 
-― See ya, Edu
+― This is chalenge to you guys, 
+―  
+― A 3D matrix is a great help in computing transformations. (SFSG...) 
+―  
+― From a generic matrix you can derive some properties of the transformation. 
+―  
+― I'm interested in finding a QUICK and LINEAR way to determine if some 4x4 matriz produces a transformation in which all 3 scale factors are equal. I mean, if some object is to be transformed, it will not be deformed. An object will be grown/shrinked by the same amount in all 3 axis. 
+―  
+― Having: 
+―  
+― | a11 a12 a13 a14 | 
+― | a21 a22 a23 a24 | 
+― | a31 a32 a33 a34 | 
+― |  0   0   0   1  | 
+―  
+― Can I create a set of LINEAR EQUATIONS on unknows aij that guaranties my condition (no deformation - equal scale factors) ??? 
+―  
+― LINEAR equations is a MUST for my problem. 
+―  
+― See ya, Edu 
 
 One way to do it is…
 
